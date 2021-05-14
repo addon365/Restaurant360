@@ -22,7 +22,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\addon365.CatalogBase\addon365.CatalogBase.csproj" />
+    <ProjectReference Include="..\addon365.CatalogBase\addon365.CatalogBase.csproj" />
   </ItemGroup>
 
 

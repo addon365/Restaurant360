@@ -447,3 +447,4 @@ Src/Web/.vs/addon365.FindMatch360/v16/.suo
 *.dll
 *.exe
 *.pdb
+addon365.Restaurant/appsettings.Production.json

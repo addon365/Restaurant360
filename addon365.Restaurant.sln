@@ -5,11 +5,11 @@ VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "addon365.Restaurant", "addon365.Restaurant\addon365.Restaurant.csproj", "{CE5357D7-102D-4DE8-A605-28C79EA7046F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "addon365.CatalogBase", "..\addon365.CatalogBase\addon365.CatalogBase.csproj", "{11315D20-041B-4A64-9086-8DE8ADF70B7A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "addon365.CatalogBase", "addon365.CatalogBase\addon365.CatalogBase.csproj", "{11315D20-041B-4A64-9086-8DE8ADF70B7A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "addon365.MultiTenant", "..\addon365.MultiTenant\addon365.MultiTenant.csproj", "{19540C6C-2A1E-4684-84F6-54BC0693820E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "addon365.MultiTenant", "addon365.MultiTenant\addon365.MultiTenant.csproj", "{19540C6C-2A1E-4684-84F6-54BC0693820E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "addon365.Base", "..\addon365.Base\addon365.Base.csproj", "{F6901A70-38DE-4157-ADFA-06EDEC2106A9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "addon365.Base", "addon365.Base\addon365.Base.csproj", "{F6901A70-38DE-4157-ADFA-06EDEC2106A9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
